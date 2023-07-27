@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">BatteryAppAndroid</string>
+    <string name="chooseParametrBattery">Оберіть параметри вашого акумулятору</string>
+    <string name="capacityBattery">Ємність, А/г</string>
+    <string name="voltageBattery">Напруга, В</string>
+    <string name="numberBattery">Кількість, шт</string>
+    <string name="chooseDevice">Оберіть нагрузку</string>
+
+    <string name="lamp">Лампа</string>
+    <string name="lampPower">Потужність, Вт</string>
+    <string name="numberLamp">Кількість, шт</string>
+
+    <string name="ledTape">Стрічка світлодіодна</string>
+    <string name="ledTapePower">Потужність, Вт</string>
+    <string name="numberLedTape">Кількість, шт</string>
+
+    <string name="modulLed">модуль світлодіодний</string>
+
+    <string name="calculate">РОЗРАХУВАТИ</string>
+
+    <string-array name="numberOfBatteries">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="batteryCapacity">
+        <item>5</item>
+        <item>7</item>
+        <item>9</item>
+        <item>12</item>
+        <item>14</item>
+        <item>18</item>
+        <item>24</item>
+    </string-array>
+
+    <string-array name="voltageBattery">
+        <item>12</item>
+        <item>24</item>
+    </string-array>
+
+    <string-array name="voltageLamp">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>9</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="numberOfLamp">
+
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="voltageLed">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>9</item>
+        <item>10</item>
+        <item>15</item>
+    </string-array>
+
+
+    <string-array name="numberOfLED">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="numberOfModuls">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="modulsCapacity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+
+    <string name="result"></string>
+
+</resources>
